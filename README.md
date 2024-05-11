@@ -1,2 +1,2 @@
 # js
-java scriot course 
+java script course 
